@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-09T23:20:16 ART" name="Default suite" finished-at="2022-06-09T23:20:19 ART" duration-ms="3366">
+    <groups>
+    </groups>
+    <test started-at="2022-06-09T23:20:16 ART" name="Default test" finished-at="2022-06-09T23:20:19 ART" duration-ms="3366">
+      <class name="tests.Laboratorio7">
+        <test-method is-config="true" signature="abrirPagina()[pri:0, instance:tests.Laboratorio7@5af3afd9]" started-at="2022-06-09T23:20:08 ART" name="abrirPagina" finished-at="2022-06-09T23:20:16 ART" duration-ms="7697" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- abrirPagina -->
+        <test-method signature="login()[pri:0, instance:tests.Laboratorio7@5af3afd9]" started-at="2022-06-09T23:20:16 ART" name="login" finished-at="2022-06-09T23:20:19 ART" duration-ms="3322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- tests.Laboratorio7 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
