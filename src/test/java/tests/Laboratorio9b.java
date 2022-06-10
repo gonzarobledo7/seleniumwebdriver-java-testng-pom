@@ -51,6 +51,7 @@ public class Laboratorio9b {
 		driver.switchTo().alert().dismiss();
 		
 		System.out.println("Fin de la prueba de alerta");
+		System.out.println("Agregando cambio para commit");
 	}
 	
 	@Test
